@@ -16,6 +16,6 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Icon's section -->
-    <string name="icon_preview_card_content_description">Icon Preview</string>
-    <string name="icon_pack_title">System icon packs</string>
+    <string name="icon_preview_card_content_description">Voorvertoning pictogram</string>
+    <string name="icon_pack_title">Systeem pictogrammen</string>
 </resources>
