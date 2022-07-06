@@ -16,9 +16,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Icon's section -->
-    <string name="icon_preview_card_content_description">Pré-visualização do ícone</string>
-    <string name="icon_pack_title">Pacotes de ícones do sistema</string>
+    <string name="icon_preview_card_content_description">پیش نمایش آیکون</string>
+    <string name="icon_pack_title">بسته های آیکون سیستم</string>
     <!-- Font's section -->
-    <string name="font_title">Fontes do sistema</string>
-    <string name="font_preview_card_content_description">Visualização de fonte</string>
+    <string name="font_title">فونت های سیستم</string>
+    <string name="font_preview_card_content_description">پیش نمایش فونت</string>
 </resources>
