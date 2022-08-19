@@ -16,8 +16,8 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Icon's section -->
-    <string name="icon_preview_card_content_description">Попередній перегляд значка</string>
-    <string name="icon_pack_title">Набір системних іконок</string>
+    <string name="icon_preview_card_content_description">Попередній перегляд іконки</string>
+    <string name="icon_pack_title">Набори системних іконок</string>
     <!-- Font's section -->
     <string name="font_title">Системні шрифти</string>
     <string name="font_preview_card_content_description">Попередній перегляд шрифту</string>
